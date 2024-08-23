@@ -1,0 +1,14 @@
+﻿'28  JULY  2024.exe' (Win32): Loaded 'E:\CP SPECIAL\28  JULY  2024\Debug\28  JULY  2024.exe'. Symbols loaded.
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ntdll.dll'. 
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel32.dll'. 
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\KernelBase.dll'. 
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcp140d.dll'. 
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\vcruntime140d.dll'. 
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\ucrtbased.dll'. 
+The thread 0x2ffc has exited with code 0 (0x0).
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\kernel.appcore.dll'. 
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\msvcrt.dll'. 
+'28  JULY  2024.exe' (Win32): Loaded 'C:\Windows\SysWOW64\rpcrt4.dll'. 
+The thread 0x1f14 has exited with code 0 (0x0).
+The thread 0x4368 has exited with code 0 (0x0).
+The program '[7720] 28  JULY  2024.exe' has exited with code 0 (0x0).
